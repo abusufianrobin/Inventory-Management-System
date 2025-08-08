@@ -1,0 +1,8 @@
+2025-06-27 15:04:59 - Client: I Buy Some guide which is not needed now. So I take it to back and return my money
+2025-06-27 15:04:59 - System: System received your message: "I Buy Some guide which is not needed now. So I take it to back and return my money"
+2025-06-27 15:05:58 - Client: This is my request. Thank you !
+2025-06-27 15:05:58 - System: System received your message: "This is my request. Thank you !"
+2025-06-29 16:14:35 - Client: Hello how are you ?
+2025-06-29 16:14:35 - System: System received your message: "Hello how are you ?"
+2025-06-29 16:23:18 - Client: Hello How you? I have a problem about a product?
+2025-06-29 16:23:18 - System: System received your message: "Hello How you? I have a problem about a product?"

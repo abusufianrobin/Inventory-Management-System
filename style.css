@@ -1,0 +1,92 @@
+/* style.css */
+
+/* Root style for the entire application */
+.root {
+    -fx-font-family: "Segoe UI", Arial, sans-serif; /* Common modern font */
+    -fx-background-color: #F0F2F5; /* Light grey background for the whole app */
+}
+
+/* Header box styling */
+.header-box {
+    -fx-background-color: #007bff; /* Primary blue for header */
+    -fx-padding: 15px; /* Increased padding for better spacing */
+    -fx-alignment: center;
+    -fx-spacing: 10px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0, 0, 5); /* Subtle shadow */
+}
+
+/* Connect/Disconnect Button */
+.connect-button {
+    -fx-background-color: #28a745; /* Green for connect */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 8px 20px;
+    -fx-background-radius: 20px; /* Rounded button */
+    -fx-cursor: hand; /* Hand cursor on hover */
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.1), 5, 0, 0, 2);
+}
+
+.connect-button:hover {
+    -fx-background-color: #218838; /* Darker green on hover */
+}
+
+/* Message ListView styling */
+.message-list-view {
+    -fx-background-color: white; /* White background for message area */
+    -fx-border-color: #E0E0E0; /* Subtle border */
+    -fx-border-width: 0; /* No visible border */
+    -fx-background-radius: 10px; /* Rounded corners for the list view */
+    -fx-border-radius: 10px;
+    -fx-padding: 5px;
+    -fx-effect: innershadow(gaussian, rgba(0,0,0,0.05), 5, 0, 0, 0); /* Subtle inner shadow */
+}
+
+/* Styling for individual cells within the ListView */
+.list-cell {
+    -fx-background-color: transparent; /* Make cell background transparent */
+    -fx-padding: 5px 10px; /* Padding inside each message cell */
+    -fx-alignment: center-left; /* Default alignment */
+}
+
+/* Input box styling (contains text field and send button) */
+.input-box {
+    -fx-background-color: #FFFFFF; /* White background for input area */
+    -fx-padding: 10px;
+    -fx-alignment: center;
+    -fx-spacing: 10px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.1), 10, 0, 0, -5); /* Shadow for depth */
+}
+
+/* Message input text field */
+.message-input {
+    -fx-font-size: 14px;
+    -fx-padding: 10px 15px;
+    -fx-background-radius: 25px; /* More rounded for chat bubble feel */
+    -fx-border-radius: 25px;
+    -fx-border-color: #E0E0E0;
+    -fx-border-width: 1px;
+    -fx-prompt-text-fill: #888888; /* Placeholder text color */
+}
+
+/* Send Button */
+.send-button {
+    -fx-background-color: #007bff; /* Primary blue */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 25px;
+    -fx-background-radius: 25px; /* More rounded button */
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.1), 5, 0, 0, 2);
+}
+
+.send-button:hover {
+    -fx-background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Optional: Style for disconnected state (you'd apply this dynamically in controller) */
+.connect-button.disconnected {
+    -fx-background-color: #dc3545; /* Red for disconnected state */
+}
+.connect-button.disconnected:hover {
+    -fx-background-color: #c82333;
+}

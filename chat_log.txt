@@ -1,8 +1,69 @@
-2025-06-27 15:04:59 - Client: I Buy Some guide which is not needed now. So I take it to back and return my money
-2025-06-27 15:04:59 - System: System received your message: "I Buy Some guide which is not needed now. So I take it to back and return my money"
-2025-06-27 15:05:58 - Client: This is my request. Thank you !
-2025-06-27 15:05:58 - System: System received your message: "This is my request. Thank you !"
-2025-06-29 16:14:35 - Client: Hello how are you ?
-2025-06-29 16:14:35 - System: System received your message: "Hello how are you ?"
-2025-06-29 16:23:18 - Client: Hello How you? I have a problem about a product?
-2025-06-29 16:23:18 - System: System received your message: "Hello How you? I have a problem about a product?"
+[2025-07-01 18:23:12] --- Chat Server Started ---
+[2025-07-01 18:23:33] New client connected: 127.0.0.1
+[2025-07-01 18:23:33] Junayed has joined the chat.
+[2025-07-01 18:24:33] Junayed: Hello everyone! Today I complete my section selection and advising.
+[2025-07-01 18:24:44] Server error: Address already in use: bind
+[2025-07-01 18:25:06] New client connected: 127.0.0.1
+[2025-07-01 18:25:06] Aurna has joined the chat.
+[2025-07-01 18:25:23] Aurna: But I didn't Complete the advising.
+[2025-07-01 18:26:14] New client connected: 127.0.0.1
+[2025-07-01 18:26:14] Abir has joined the chat.
+[2025-07-01 18:27:03] Abir: Hey, Everyone! Do you complete your advising timesly and getting suitable section and faculty?
+[2025-07-01 18:28:12] Junayed: No, I can't advising according to my plan. But it was good for me, I get 2 section of my favprite course teacher. What about you?
+[2025-07-01 18:28:52] Junayed has left the chat.
+[2025-07-01 18:28:52] Client disconnected: 127.0.0.1
+[2025-07-01 18:29:35] Abir has left the chat.
+[2025-07-01 18:29:35] Client disconnected: 127.0.0.1
+[2025-07-01 18:29:56] Aurna has left the chat.
+[2025-07-01 18:29:56] Client disconnected: 127.0.0.1
+[2025-07-02 11:43:48] --- Chat Server Started ---
+[2025-07-02 11:50:57] New client connected: 127.0.0.1
+[2025-07-02 11:50:57] Junayed has joined the chat.
+[2025-07-02 11:51:50] Junayed: Hello
+[2025-07-02 11:52:25] New client connected: 127.0.0.1
+[2025-07-02 11:52:25] Aurna has joined the chat.
+[2025-07-02 11:52:52] Aurna: Hi Junayed
+[2025-07-02 11:53:12] Junayed: I am fine. And You?
+[2025-07-02 12:01:02] --- Chat Server Started ---
+[2025-07-02 12:01:56] New client connected: 127.0.0.1
+[2025-07-02 12:01:56] abir has joined the chat.
+[2025-07-02 12:02:18] abir: hi
+[2025-07-02 12:02:43] New client connected: 127.0.0.1
+[2025-07-02 12:02:43] ss has joined the chat.
+[2025-07-02 12:02:48] ss: s
+[2025-07-02 12:11:28] --- Chat Server Started ---
+[2025-07-02 12:12:29] New client connected: 127.0.0.1
+[2025-07-02 12:12:29] sa has joined the chat.
+[2025-07-02 12:12:57] New client connected: 127.0.0.1
+[2025-07-02 12:12:57] as has joined the chat.
+[2025-07-02 12:13:10] sa: r
+[2025-07-02 12:13:27] as: e
+[2025-07-02 12:21:24] --- Chat Server Started ---
+[2025-07-02 12:22:20] New client connected: 127.0.0.1
+[2025-07-02 12:22:20] q has joined the chat.
+[2025-07-02 12:22:55] New client connected: 127.0.0.1
+[2025-07-02 12:22:55] w has joined the chat.
+[2025-07-02 12:23:15] q: hi
+[2025-07-02 12:23:27] w: hi
+[2025-07-02 13:55:20] --- Chat Server Started ---
+[2025-07-02 13:55:47] New client connected: 127.0.0.1
+[2025-07-02 13:55:47] sammam has joined the chat.
+[2025-07-02 13:56:50] New client connected: 127.0.0.1
+[2025-07-02 13:56:50] junied has joined the chat.
+[2025-07-02 13:56:58] junied: hi
+[2025-07-02 13:57:16] sammam: hi
+[2025-07-02 14:24:16] --- Chat Server Started ---
+[2025-07-02 14:24:52] New client connected: 127.0.0.1
+[2025-07-02 14:24:52] sam has joined the chat.
+[2025-07-02 14:25:28] New client connected: 127.0.0.1
+[2025-07-02 14:25:28] dsa has joined the chat.
+[2025-07-02 14:26:50] New client connected: 127.0.0.1
+[2025-07-02 14:26:50] sammqm has joined the chat.
+[2025-07-02 14:27:03] sam: w
+[2025-07-04 22:01:48] --- Chat Server Started ---
+[2025-07-04 22:06:55] New client connected: 127.0.0.1
+[2025-07-04 22:06:55] Hasan has joined the chat.
+[2025-07-04 22:07:08] Hasan: Hey, wahta Up?
+[2025-07-04 22:07:47] New client connected: 127.0.0.1
+[2025-07-04 22:07:47] Guest has joined the chat.
+[2025-07-04 22:07:51] Guest: I am good.

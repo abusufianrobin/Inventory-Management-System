@@ -1,4 +1,4 @@
-📖 Introduction
+# 📖 Introduction
 The EasyTech Bookstore Inventory Management System is a Java-based desktop application designed to streamline and automate bookstore operations. Built with JavaFX for a modern and interactive Graphical User Interface (GUI) and powered by socket programming for multi-client connectivity, the system enables multiple users to interact with a central server seamlessly.
 
 It integrates with a MySQL database for persistent data storage and retrieval, ensuring that all inventory, sales, and customer records are securely maintained.
@@ -37,4 +37,7 @@ Provide a professional dashboard for easy access and operation.
 
 This project was also motivated by the opportunity to apply advanced object-oriented programming concepts such as multithreading, socket communication, JavaFX UI development, and MySQL integration.
 <img width="598" height="477" alt="Server_connect" src="https://github.com/user-attachments/assets/992be200-fff3-4617-b774-2737452bc90c" />
+
 <img width="598" height="475" alt="complain_box" src="https://github.com/user-attachments/assets/159377bd-5839-480a-9054-34375f0a736f" />
+
+
